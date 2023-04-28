@@ -1,0 +1,11 @@
+
+Package: circle
+Type: Package
+Title: A package to calculate the area and circumference of a circle
+Version: 0.1.0
+Author: Jason Eaton
+Maintainer: Jason Eaton <ejason777@gmail.com>
+Description: This package contains two functions that calculate the area,circumference, and diameter of a circle.
+License: CC0
+Encoding: UTF-8
+LazyData: true
